@@ -1,4 +1,4 @@
-module common
+module gitee.com/qugege/common
 
 go 1.19
 
