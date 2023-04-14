@@ -1,4 +1,4 @@
-module gitee.com/qugege/common
+module github.com/qucheng-tony/common
 
 go 1.19
 
